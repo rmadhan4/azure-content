@@ -1,13 +1,13 @@
-# Understand and explore
+# [Understand and explore](remoteapp-whatis.md)
 ## [What is Azure RemoteApp?](remoteapp-whatis.md)
 ## [Frequently asked questions](remoteapp-faq.md)
 ## [What's new?](remoteapp-whatsnew.md)
 ## [What's coming?](remoteapp-roadmap.md)
-# Get started
+# [Get started](remoteapp-threeminutes.md)
 ## [Try RemoteApp in 3 minutes](remoteapp-threeminutes.md)
 ## [Try RemoteApp for 30 days](remoteapp-freetrial.md)
-# Plan and design
-## Will my app work?
+# [Plan and design](remoteapp-appreqs.md)
+## [Will my app work?](remoteapp-appreqs.md)
 ### [App requirements](remoteapp-appreqs.md)
 ### [OneDrive for Business](remoteapp-onedrive.md)
 ### [SQL Azure](remoteapp-sql.md)
@@ -18,7 +18,7 @@
 ## [Which collection do you need?](remoteapp-collections.md)
 ## [How does licensing work?](remoteapp-licensing.md)
 ## [Port and URL info](remoteapp-ports.md)
-# Deploy and use
+# [Deploy and use](remoteapp-anyapp.md}
 ## [Run any app on any device](remoteapp-anyapp.md)
 ## [Run Office 365 on any device](remoteapp-tutorial-o365anywhere.md)
 ## [Create an app image](remoteapp-imageoptions.md)
@@ -26,23 +26,23 @@
 ### [What's in the template images?](remoteapp-images.md)
 ### [Create an image from a VM](remoteapp-image-on-azurevm.md)
 ### [Upload your image](remoteapp-uploadimage.md)
-## Create a collection
+## [Create a collection](remoteapp--create-hybrid-deployment.md)
 ### [Create a hybrid collection](remoteapp-create-hybrid-deployment.md)
 ### [Create a cloud collection](remoteapp-create-cloud-deployment.md)
 ### [Update your collection](remoteapp-update.md)
-## Configure a virtual network
+## [Configure a virtual network](remoteapp-planvnet.md)
 ### [Plan your VNET](remoteapp-planvnet.md)
 ### [Validate your VNET](remoteapp-vnet.md)
 ### [Migrate to an Azure VNET](remoteapp-migratevnet.md)
 ## [Publish applications](remoteapp-publish.md)
-## Manage users
+## [Manage users](remoteapp-user.md)
 ### [Add users](remoteapp-user.md)
 ### [User data in RemoteApp](remoteapp-upd.md)
 ### [Secure access](remoteapp-secureaccess.md)
 ### [Configure Azure AD](remoteapp-ad.md)
 ### [Change the Azure AD tenant](remoteapp-changetenant.md)
 ### [Office 365 user accounts](remoteapp-o365user.md)
-## Install clients
+## [Install clients](remoteapp-clients.md)
 ### [Supported clients](remoteapp-clients.md)
 ### [Configure redirection](remoteapp-redirection.md)
 ### [Configure redirection for USB devices](remoteapp-usbredir.md)
