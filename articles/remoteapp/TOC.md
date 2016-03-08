@@ -26,7 +26,7 @@
 ### [What's in the template images?](remoteapp-images.md)
 ### [Create an image from a VM](remoteapp-image-on-azurevm.md)
 ### [Upload your image](remoteapp-uploadimage.md)
-## [Create a collection](remoteapp--create-hybrid-deployment.md)
+## [Create a collection](remoteapp-create-hybrid-deployment.md)
 ### [Create a hybrid collection](remoteapp-create-hybrid-deployment.md)
 ### [Create a cloud collection](remoteapp-create-cloud-deployment.md)
 ### [Update your collection](remoteapp-update.md)
