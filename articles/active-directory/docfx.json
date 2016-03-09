@@ -14,7 +14,8 @@
       {
         "files": [
           "media/**",
-          "_themes/**"
+          "_themes/**",
+		  "ex_resource/**"
         ],
         "exclude": [
           "**/obj/**",
