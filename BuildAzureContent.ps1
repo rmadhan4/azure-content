@@ -6,7 +6,7 @@ $errorActionPreference = 'Stop'
 Add-type -AssemblyName "System.IO.Compression.FileSystem"
 $azureTransformContainerUrl = "https://opbuildstoragesandbox2.blob.core.windows.net/azure-transform"
 
-$AzureMarkdownRewriterToolSource = "$azureTransformContainerUrl/.optemp/AzureMarkdownRewriterTool-v3.zip"
+$AzureMarkdownRewriterToolSource = "$azureTransformContainerUrl/.optemp/AzureMarkdownRewriterTool-v4.zip"
 $AzureMarkdownRewriterToolDestination = "$repositoryRoot\.optemp\AzureMarkdownRewriterTool.zip"
 DownloadFile($AzureMarkdownRewriterToolSource) ($AzureMarkdownRewriterToolDestination) ($true)
 $AzureMarkdownRewriterToolUnzipFolder = "$repositoryRoot\.optemp\AzureMarkdownRewriterTool"
