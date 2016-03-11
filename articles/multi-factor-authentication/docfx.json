@@ -23,6 +23,9 @@
         ]
       }
     ],
+    "globalMetadata": {
+      "breadcrumb_path": "/EM/toc.json"
+    },
     "template": [
       "docs.html"
     ],
