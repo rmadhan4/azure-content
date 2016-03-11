@@ -42,7 +42,7 @@
 
 # [Manage your Azure Active Directory]()
 ## [How Azure subscriptions are associated with Azure Active Directory](active-directory-how-subscriptions-associated-directory.md)
-## [What is Microsoft Azure Active Directory licensing?]( getting-started-with-azure-ad-licensing.md)
+## [What is Microsoft Azure Active Directory licensing?](active-directory-licensing-what-is.md)
 ## [Getting an Azure Active Directory]()
 ## [Enterprise Mobility Suite and Azure Active Directory Premium]()
 ## [Improving user sign in experiences with custom domain names](#active-directory-add-domain.md)
