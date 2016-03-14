@@ -4,8 +4,6 @@
 ## [Which edition should I choose?](active-directory-editions.md)
 ## [Managing apps with Azure Active Directory](active-directory-enable-sso-scenario.md)
 
-# [Getting started]()
-
 # [Manage users]()
 ## [Create or edit users](active-directory-create-users.md)
 ## [Manage passwords](active-directory-manage-passwords.md)
@@ -59,7 +57,6 @@
 
 # [Identity-driven security]()
 ## [Azure Active Directory Identity Protection](active-directory-identityprotection.md)
-## [Azure AD Privileged Identity Management](active-directory-privileged-identity-management-configure.md)
 ## [3rd Party Application Security](active-directory-authentication-scenarios.md)
 ## [Conditional Access](active-directory-conditional-access.md)
 ### [Azure Conditional Access Preview for SaaS Apps](active-directory-conditional-access-azuread-connected-apps.md)
@@ -69,12 +66,11 @@
 ### [Technical reference](active-directory-conditional-access-technical-reference.md)
 ### [FAQ](active-directory-conditional-faqs.md)
 ## [Role-Based Access](role-based-access-control-configure.md)
-
-## [User passwords](active-directory-passwords.md)
 ## [Azure AD Privileged Identity Management](active-directory-privileged-identity-management-getting-started.md)
+### [Azure AD Privileged Identity Management](active-directory-privileged-identity-management-configure.md)
+## [User passwords](active-directory-passwords.md)
 ## [MFA](/MFA/multi-factor-authentication/multi-factor-authentication.html)
 ## [Data, reports and analysis](active-directory-reporting-guide.md)
-
 
 # [Develop applications](active-directory-developers-guide.md)
 ## [Quickstarts]()
