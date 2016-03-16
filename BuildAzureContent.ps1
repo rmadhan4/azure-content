@@ -44,6 +44,11 @@ Out-File -FilePath $auzreTransformArgsJsonPath -InputObject $azureTransformArgsJ
 echo "Start to call azure transform"
 &$AzureMarkdownRewriterTool "$repositoryRoot" "$auzreTransformArgsJsonPath" "$azureDocumentUriPrefix"
 
+if ($LASTEXITCODE -ne 0)
+{
+  WriteErrorAndExit("Transform failed and won't do build and publish for azure content")
+}
+
 # add build for docs
 $buildEntryPointDestination = Join-Path $packageToolsDirectory -ChildPath "opbuild" | Join-Path -ChildPath "mdproj.builder.ps1"
 & "$buildEntryPointDestination" "$repositoryRoot" "$packagesDirectory" "$packageToolsDirectory" $dependencies
