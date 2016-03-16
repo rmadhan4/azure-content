@@ -1,2 +1,43 @@
-# Azure Multi-Factor Authentication
-## [Azure Multi-Factor Authentication - What is It?](multi-factor-authentication.md)
+# [Understand and explore](multi-factor-authenticaton.md)
+## [What is Azure Multi-Factor Authentication?](multi-factor-authentication.md)
+## [How Azure Multi-Factor Authentication works](multi-factor-authentication-how-it-works.md)
+## [Versions of Azure Multi-Factor Authentication available](multi-factor-authentication.md#available-versions-of-azure-multi-factor-authentication)
+
+# [Get Started](multi-factor-authentication-get-started.md)
+## [What version is right for you?](multi-factor-authentication-get-started.md)
+## [Azure MFA in the Cloud](multi-factor-authentication-get-started-cloud.md)
+## [Azure MFA on-premises server](multi-factor-authentication-get-started-server.md)
+## [Azure MFA with AD FS](multi-factor-authentication-get-started-adfs.md)
+
+# [Deploy and use]()
+## [Azure MFA in the cloud](multi-factor-authentication-get-started-cloud.md)
+### [Create an Auth Provider or Assign Licenses](multi-factor-authentication-get-started-cloud.md#assigning-an-azure-mfa-azure-ad-premium-or-enterprise-mobility-license-to-users)
+### [Turn MFA on for your users and send an email](multi-factor-authentication-get-started-cloud.md#turn-on-multi-factor-authentication-for-users)
+### [Configure Advanced features](multi-factor-authentication-whats-next.md)
+### [For Office 365 users](https://support.office.com/en-US/article/Set-up-multi-factor-authentication-for-Office-365-8f0454b2-f51a-4d9c-bcde-2c48e41621c6)
+
+## [Azure MFA Server on-premises](multi-factor-authentication-get-started-server.md)
+### [Download and install the MFA Server](multi-factor-authentication-get-started-server.md#install-and-configure-the-azure-multi-factor-authentication-server)
+### [Import users from Active Directory](multi-factor-authentication-get-started-server.md#import-users-from-active-directory)
+### [Install the users portal](multi-factor-authentication-get-started-portal.md)
+### [Advanced server configuration](multi-factor-authentication-get-started-server.md#advanced-azure-multi-factor-authentication-server-configurations.md)
+### [Advanced VPN Configurations](multi-factor-authentication-advanced-vpn-configurations.md)
+
+## [Azure MFA with AD FS](multi-factor-authentication-get-started-adfs.md)
+### [Install the Azure MFA AD FS adapter](multi-factor-authentication-get-started-adfs-w2k12.md#to-install-the-ad-fs-adapter-standalone-using-the-web-service-sdk)
+### [Secure cloud resources using Azure MFA and AD FS](multi-factor-authentication-get-started-adfs-cloud.md)
+### [Secure cloud and on-premises resouces using Azure MFA and Windows Server 2012 R2 AD FS](multi-factor-authentication-get-started-adfs-w2k12.md)
+### [Secure cloud and on-premises resouces using Azure MFA and AD FS 2.0](multi-factor-authentication-get-started-adfs-adfs2.md)
+
+# [Develop Applications](multi-factor-authenticaiton-sdk.md)
+## [Build MFA into custom applications with the Azure MFA SDK](multi-factor-authentication-sdk.md)
+
+# [Azure MFA User Guide](multi-factor-authentication-end-user.md)
+## [Setting up Azure MFA for the first time](multi-factor-authentication-end-user-first-time.md)
+## [Signing-in with Azure MFA](multi-factor-authentication-end-user-signin.md)
+## [Using App Passwords](multi-factor-authentication-end-user-app-passwords.md)
+## [Azure Authenticator Mobile App](multi-factor-authentication-azure-authenticator.md)
+## [Download the User Guide]()
+
+# [Troubleshoot]()
+## [Azure MFA FAQ](multi-factor-authentication-faq.md)
