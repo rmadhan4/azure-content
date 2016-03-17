@@ -2,8 +2,6 @@
 ## [What is Azure Active Directory()](active-directory-whatis.md)
 ## [Enterprise SLA](https://azure.microsoft.com/en-us/support/legal/sla/)
 ## [Which edition should I choose?](active-directory-editions.md)
-## [Managing apps with Azure Active Directory](active-directory-enable-sso-scenario.md)
-
 # [Manage users](active-directory-create-users.md)
 ## [Create or edit users](active-directory-create-users.md)
 ## [Manage passwords](active-directory-manage-passwords.md)
@@ -11,7 +9,6 @@
 ## [Add company branding to your Sign In and Access Panel pages](active-directory-add-company-branding.md)
 ## [Azure AD B2B collaboration preview](active-directory-b2b-what-is-azure-ad-b2b.md)
 ## [Integrating your on-premises identities with Azure Active Directory](active-directory-aadconnect.md)
-
 # [Manage devices](active-directory-conditional-access-device-registration-overview.md)
 ## [Registering devices](active-directory-conditional-access-device-registration-overview.md)
 ### [Automatic device registration with Azure Active Directory](active-directory-conditional-access-automatic-device-registration.md)
@@ -28,7 +25,6 @@
 ### [Set up a Windows 10 device with Azure AD from Settings](active-directory-azureadjoin-user-upgrade.md)
 ## [Authenticating identities without passwords through Microsoft Passport](active-directory-azureadjoin-passport.md)
 ### [Enable Microsoft Passport for Work in your organization](active-directory-azureadjoin-passport-deployment.md)
-
 # [Manage access to apps](active-directory-enable-sso-scenario.md)
 ## [Discovering applications](active-directory-cloudappdiscovery-whatis.md)
 ## [Integrate Azure AD with SaaS apps](active-directory-sso-integrate-saas-apps.md)
@@ -37,7 +33,6 @@
 ## [Enabling hybrid access](active-directory-appssoaccess-enable-hybrid-access.md)
 ## [Assigning access to apps](active-directory-managing-access-to-apps.md)
 ## [Document library for managing applications](active-directory-apps-index.md)
-
 # [Manage your Azure Active Directory](active-directory-how-subscriptions-associated-directory.md)
 ## [How Azure subscriptions are associated with Azure Active Directory](active-directory-how-subscriptions-associated-directory.md)
 ## [What is Microsoft Azure Active Directory licensing?]( getting-started-with-azure-ad-licensing.md)
@@ -46,7 +41,6 @@
 ## [Improving user sign in experiences with custom domain names](#active-directory-add-domain.md)
 ## [Deleting an unneeded Azure Active Directory]()
 ## [Azure B2B](active-directory-b2b-collaboration-overview.md)
-
 # [Delegation](active-directory-manage-groups.md)
 ## [Managing access to resources with Azure Active Directory groups](active-directory-manage-groups.md)
 ## [Getting started with Privileged Identity Management](active-directory-privileged-identity-management-getting-started.md)
@@ -54,7 +48,6 @@
 ## [Self-service application access and delegated management](active-directory-self-service-application-access.md)
 ## [Assigning administrator roles in Azure Active Directory](active-directory-assign-admin-roles.md)
 ## [Administrative units management in Azure AD](active-directory-administrative-units-management.md)
-
 # [Identity-driven security](active-directory-identityprotection.md)
 ## [Azure Active Directory Identity Protection](active-directory-identityprotection.md)
 ## [Azure AD Privileged Identity Management](active-directory-privileged-identity-management-configure.md)
@@ -67,13 +60,10 @@
 ### [Technical reference](active-directory-conditional-access-technical-reference.md)
 ### [FAQ](active-directory-conditional-faqs.md)
 ## [Role-Based Access](role-based-access-control-configure.md)
-
 ## [User passwords](active-directory-passwords.md)
-## [Azure AD Privileged Identity Management](active-directory-privileged-identity-management-getting-started.md)
-## [MFA](/MFA/multi-factor-authentication/multi-factor-authentication.html)
+## [Azure AD Privileged Identity Management](active-directory-privileged-identity-management-configure.md)
+## [Multi-Factor Authentication](../MFA/multi-factor-authentication/multi-factor-authentication.html)
 ## [Data, reports and analysis](active-directory-reporting-guide.md)
-
-
 # [Develop applications](active-directory-developers-guide.md)
 ## [Quickstarts](active-directory-developers-guide.md)
 ### [Graph API](active-directory-graph-api-quickstart.md)
@@ -86,8 +76,8 @@
 ### [Cordova app](active-directory-devquickstarts-cordova.md)
 ### [.Net web app](active-directory-devquickstarts-webapp-dotnet.md)
 ### [Java web app](active-directory-devquickstarts-webapp-java.md)
-### [JavaScript web app](active-directory-devquickstarts-angular)
-### [Node.js web app](active-directory-devquickstarts-openidconnect-nodejs)
+### [JavaScript web app](active-directory-devquickstarts-angular.md)
+### [Node.js web app](active-directory-devquickstarts-openidconnect-nodejs.md)
 ### [.NET web API](active-directory-devquickstarts-webapi-dotnet.md)
 ### [Node.js web API](active-directory-devquickstarts-webapi-nodejs.md)
 ## [How Tos](active-directory-developers-guide.md)

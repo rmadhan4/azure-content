@@ -1,14 +1,12 @@
-# [Understand and explore](multi-factor-authenticaton.md)
+# [Understand and explore](multi-factor-authentication.md)
 ## [What is Azure Multi-Factor Authentication?](multi-factor-authentication.md)
 ## [How Azure Multi-Factor Authentication works](multi-factor-authentication-how-it-works.md)
 ## [Versions of Azure Multi-Factor Authentication available](multi-factor-authentication.md#available-versions-of-azure-multi-factor-authentication)
-
 # [Get Started](multi-factor-authentication-get-started.md)
 ## [What version is right for you?](multi-factor-authentication-get-started.md)
 ## [Azure MFA in the Cloud](multi-factor-authentication-get-started-cloud.md)
 ## [Azure MFA on-premises server](multi-factor-authentication-get-started-server.md)
 ## [Azure MFA with AD FS](multi-factor-authentication-get-started-adfs.md)
-
 # [Deploy and use](multi-factor-authentication-get-started-cloud.md)
 ## [Azure MFA in the cloud](multi-factor-authentication-get-started-cloud.md)
 ### [Create an Auth Provider or Assign Licenses](multi-factor-authentication-get-started-cloud.md#assigning-an-azure-mfa-azure-ad-premium-or-enterprise-mobility-license-to-users)
@@ -26,15 +24,12 @@
 ### [Secure cloud resources using Azure MFA and AD FS](multi-factor-authentication-get-started-adfs-cloud.md)
 ### [Secure cloud and on-premises resources using Azure MFA and Windows Server 2012 R2 AD FS](multi-factor-authentication-get-started-adfs-w2k12.md)
 ### [Secure cloud and on-premises resources using Azure MFA and AD FS 2.0](multi-factor-authentication-get-started-adfs-adfs2.md)
-
 # [Develop Applications](multi-factor-authentication-sdk.md)
 ## [Build MFA into custom applications with the Azure MFA SDK](multi-factor-authentication-sdk.md)
-
 # [Azure MFA User Guide](multi-factor-authentication-end-user.md)
 ## [Setting up Azure MFA for the first time](multi-factor-authentication-end-user-first-time.md)
 ## [Signing-in with Azure MFA](multi-factor-authentication-end-user-signin.md)
 ## [Using App Passwords](multi-factor-authentication-end-user-app-passwords.md)
 ## [Azure Authenticator Mobile App](multi-factor-authentication-azure-authenticator.md)
-
 # [Troubleshoot](multi-factor-authentication-faq.md)
 ## [Azure MFA FAQ](multi-factor-authentication-faq.md)
