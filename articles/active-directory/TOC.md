@@ -1,6 +1,5 @@
 # [Understand and explore](active-directory-whatis.md)
 ## [What is Azure Active Directory](active-directory-whatis.md)
-## [Enterprise SLA](https://azure.microsoft.com/en-us/support/legal/sla/)
 ## [Which edition should I choose?](active-directory-editions.md)
 # [Manage users](active-directory-create-users.md)
 ## [Create or edit users](active-directory-create-users.md)
