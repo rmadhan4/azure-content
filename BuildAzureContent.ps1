@@ -6,7 +6,7 @@ $errorActionPreference = 'Stop'
 Add-type -AssemblyName "System.IO.Compression.FileSystem"
 $azureTransformContainerUrl = "https://opbuildstoragesandbox2.blob.core.windows.net/azure-transform"
 
-$AzureMarkdownRewriterToolSource = "$azureTransformContainerUrl/.optemp/AzureMarkdownRewriterTool-v5.zip"
+$AzureMarkdownRewriterToolSource = "$azureTransformContainerUrl/.optemp/AzureMarkdownRewriterTool-v6.zip"
 $AzureMarkdownRewriterToolDestination = "$repositoryRoot\.optemp\AzureMarkdownRewriterTool.zip"
 DownloadFile($AzureMarkdownRewriterToolSource) ($AzureMarkdownRewriterToolDestination) ($true)
 $AzureMarkdownRewriterToolUnzipFolder = "$repositoryRoot\.optemp\AzureMarkdownRewriterTool"
@@ -36,13 +36,14 @@ foreach($transformDirectoriyToCommonDirectory in $transformDirectoriesToCommonDi
     $azureTransformArgsJsonContent += ", `"docs_host_uri_prefix`": `"$docsHostUriPrefix/$transformDirectoriyToCommonDirectory`"}"
 }
 $azureTransformArgsJsonContent += "]"
-$auzreTransformArgsJsonPath = $AzureMarkdownRewriterToolUnzipFolder + "\" + (Get-Date -Format "yyyyMMddhhmmss") + [System.IO.Path]::GetRandomFileName() + "-" + ".json"
+$tempJsonFilePostFix = (Get-Date -Format "yyyyMMddhhmmss") + [System.IO.Path]::GetRandomFileName() + "-" + ".json"
+$auzreTransformArgsJsonPath = Join-Path ($AzureMarkdownRewriterToolUnzipFolder) ("azureTransformArgs" + $tempJsonFilePostFix)
 $azureTransformArgsJsonContent = $azureTransformArgsJsonContent.Replace("\", "\\")
 Out-File -FilePath $auzreTransformArgsJsonPath -InputObject $azureTransformArgsJsonContent -Force
 
 # Call azure transform for every docset
 echo "Start to call azure transform"
-&$AzureMarkdownRewriterTool "$repositoryRoot" "$auzreTransformArgsJsonPath" "$azureDocumentUriPrefix"
+&$AzureMarkdownRewriterTool "$repositoryRoot" "$auzreTransformArgsJsonPath" "$azureDocumentUriPrefix" "$repositoryRoot\AzureVideoMapping.json"
 
 if ($LASTEXITCODE -ne 0)
 {
