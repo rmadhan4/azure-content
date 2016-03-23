@@ -15,7 +15,12 @@
         "files": [
           "media/**",
           "_themes/**",
-		  "ex_resource/**"
+	  "ex_resource/**",
+	  "**/*.png",
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.bmp",
+          "**/*.html"
         ],
         "exclude": [
           "**/obj/**",
