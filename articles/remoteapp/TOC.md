@@ -47,4 +47,5 @@
 ### [Configure redirection](remoteapp-redirection.md)
 ### [Configure redirection for USB devices](remoteapp-usbredir.md)
 ### [Client best practices](remoteapp-clientbestpractices.md)
+# [Administer](remoteapp-tutorial-arawithpowershell.md)
 ## [Use RemoteApp PowerShell cmdlets](remoteapp-tutorial-arawithpowershell.md)
