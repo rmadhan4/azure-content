@@ -53,6 +53,6 @@ if ($LASTEXITCODE -ne 0)
 # add build for docs
 $buildEntryPointDestination = Join-Path $packageToolsDirectory -ChildPath "opbuild" | Join-Path -ChildPath "mdproj.builder.ps1"
 $logLevel = GetValueFromVariableName($logLevel) ($systemDefaultVariables.Item("LogLevel"))
-& "$buildEntryPointDestination" "$repositoryRoot" "$packagesDirectory" "$packageToolsDirectory" $dependencies $logLevel
+& "$buildEntryPointDestination" "$repositoryRoot" "$packagesDirectory" "$packageToolsDirectory" $dependencies $predefinedEntryPoints $logLevel
 
 exit $LASTEXITCODE
