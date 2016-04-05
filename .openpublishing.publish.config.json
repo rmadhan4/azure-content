@@ -6,7 +6,7 @@
       "docset_name": "active-directory",
       "build_source_folder": null,
       "build_output_subfolder": "articles/active-directory",
-	  "build_entry_point": "docs",
+      "build_entry_point": "docs",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
@@ -15,11 +15,11 @@
         "ManagedReference": "Content"
       }
     },
-	{
+    {
       "docset_name": "multi-factor-authentication",
       "build_source_folder": null,
       "build_output_subfolder": "articles/multi-factor-authentication",
-	  "build_entry_point": "docs",
+      "build_entry_point": "docs",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
@@ -28,11 +28,11 @@
         "ManagedReference": "Content"
       }
     },
-	{
+    {
       "docset_name": "remoteapp",
       "build_source_folder": null,
       "build_output_subfolder": "articles/remoteapp",
-	  "build_entry_point": "docs",
+      "build_entry_point": "docs",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
@@ -43,11 +43,11 @@
     }
   ],
   "notification_subscribers": [
-  	"fenxu@microsoft.com",
-  	"elizapo@microsoft.com",
-  	"Matthew.Baldwin@microsoft.com",
-  	"binliu@microsoft.com",
-  	"huxie@microsoft.com",
-  	"saldana@microsoft.com",
-  	"kenchen@microsoft.com"]
+    "fenxu@microsoft.com",
+    "elizapo@microsoft.com",
+    "Matthew.Baldwin@microsoft.com",
+    "binliu@microsoft.com",
+    "huxie@microsoft.com",
+    "saldana@microsoft.com",
+    "kenchen@microsoft.com"]
 }

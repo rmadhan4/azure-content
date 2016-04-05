@@ -1,3 +1,8 @@
+# Include
+#$currentDir = $($MyInvocation.MyCommand.Definition) | Split-Path
+#. "$currentDir/../utility/common.ps1"
+#. "$currentDir/../utility/console.utility.ps1"
+
 # Main
 $errorActionPreference = 'Stop'
 
@@ -6,7 +11,7 @@ $errorActionPreference = 'Stop'
 Add-type -AssemblyName "System.IO.Compression.FileSystem"
 $azureTransformContainerUrl = "https://opbuildstoragesandbox2.blob.core.windows.net/azure-transform"
 
-$AzureMarkdownRewriterToolSource = "$azureTransformContainerUrl/.optemp/AzureMarkdownRewriterTool-v6.zip"
+$AzureMarkdownRewriterToolSource = "$azureTransformContainerUrl/.optemp/AzureMarkdownRewriterTool-v7.zip"
 $AzureMarkdownRewriterToolDestination = "$repositoryRoot\.optemp\AzureMarkdownRewriterTool.zip"
 DownloadFile($AzureMarkdownRewriterToolSource) ($AzureMarkdownRewriterToolDestination) ($true)
 $AzureMarkdownRewriterToolUnzipFolder = "$repositoryRoot\.optemp\AzureMarkdownRewriterTool"
@@ -18,7 +23,6 @@ if((Test-Path "$AzureMarkdownRewriterToolUnzipFolder"))
 $AzureMarkdownRewriterTool = "$AzureMarkdownRewriterToolUnzipFolder\Microsoft.DocAsCode.Tools.AzureMarkdownRewriterTool.exe"
 
 # Create azure args file
-$docsHostUriPrefix = "https://stage.docs.microsoft.com/en-us"
 $azureDocumentUriPrefix = "https://azure.microsoft.com/en-us/documentation/articles"
 
 $transformCommonDirectory = "$repositoryRoot\articles"
@@ -33,21 +37,21 @@ foreach($transformDirectoriyToCommonDirectory in $transformDirectoriesToCommonDi
     }
     $azureTransformArgsJsonContent += "{`"source_dir`": `"$transformCommonDirectory\$transformDirectoriyToCommonDirectory`""
     $azureTransformArgsJsonContent += ", `"dest_dir`": `"$transformCommonDirectory\$transformDirectoriyToCommonDirectory`""
-    $azureTransformArgsJsonContent += ", `"docs_host_uri_prefix`": `"$docsHostUriPrefix/$transformDirectoriyToCommonDirectory`"}"
+    $azureTransformArgsJsonContent += ", `"docs_host_uri_prefix`": `"/$transformDirectoriyToCommonDirectory`"}"
 }
 $azureTransformArgsJsonContent += "]"
-$tempJsonFilePostFix = (Get-Date -Format "yyyyMMddhhmmss") + [System.IO.Path]::GetRandomFileName() + "-" + ".json"
+$tempJsonFilePostFix = (Get-Date -Format "yyyyMMddhhmmss") + "-" + [System.IO.Path]::GetRandomFileName() + ".json"
 $auzreTransformArgsJsonPath = Join-Path ($AzureMarkdownRewriterToolUnzipFolder) ("azureTransformArgs" + $tempJsonFilePostFix)
 $azureTransformArgsJsonContent = $azureTransformArgsJsonContent.Replace("\", "\\")
 Out-File -FilePath $auzreTransformArgsJsonPath -InputObject $azureTransformArgsJsonContent -Force
 
 # Call azure transform for every docset
 echo "Start to call azure transform"
-&$AzureMarkdownRewriterTool "$repositoryRoot" "$auzreTransformArgsJsonPath" "$azureDocumentUriPrefix" "$repositoryRoot\AzureVideoMapping.json"
+&"$AzureMarkdownRewriterTool" "$repositoryRoot" "$auzreTransformArgsJsonPath" "$azureDocumentUriPrefix" "$repositoryRoot\AzureVideoMapping.json"
 
 if ($LASTEXITCODE -ne 0)
 {
-  WriteErrorAndExit("Transform failed and won't do build and publish for azure content")
+  exit WriteErrorAndExit("Transform failed and won't do build and publish for azure content") ($LASTEXITCODE)
 }
 
 # add build for docs
