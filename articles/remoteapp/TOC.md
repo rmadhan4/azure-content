@@ -22,7 +22,6 @@
 ## [Run any app on any device](remoteapp-anyapp.md)
 ## [Run Office 365 on any device](remoteapp-tutorial-o365anywhere.md)
 ## [Create an app image](remoteapp-imageoptions.md)
-### [App image requirements](remoteapp-appreqs.md)
 ### [What's in the template images?](remoteapp-images.md)
 ### [Create an image from a VM](remoteapp-image-on-azurevm.md)
 ### [Upload your image](remoteapp-uploadimage.md)
