@@ -18,7 +18,7 @@
 ## [Which collection do you need?](remoteapp-collections.md)
 ## [How does licensing work?](remoteapp-licensing.md)
 ## [Port and URL info](remoteapp-ports.md)
-# [Deploy and use](remoteapp-anyapp.md}
+# [Deploy and use](remoteapp-anyapp.md)
 ## [Run any app on any device](remoteapp-anyapp.md)
 ## [Run Office 365 on any device](remoteapp-tutorial-o365anywhere.md)
 ## [Create an app image](remoteapp-imageoptions.md)
@@ -47,5 +47,4 @@
 ### [Configure redirection](remoteapp-redirection.md)
 ### [Configure redirection for USB devices](remoteapp-usbredir.md)
 ### [Client best practices](remoteapp-clientbestpractices.md)
-# [Administer](remoteapp-tutorial-arawithpowershell.md)
 ## [Use RemoteApp PowerShell cmdlets](remoteapp-tutorial-arawithpowershell.md)
