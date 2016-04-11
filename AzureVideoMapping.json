@@ -52,5 +52,12 @@
     "Link": "http://channel9.msdn.com/Events/TechEd/Europe/2014/EM-B313/player/",
     "Width": 640,
     "Height": 360
-  }
+  },
+  {
+    "Id": "azure-active-directory-connect-express-settings",
+    "Link": "https://channel9.msdn.com/Series/Azure-Active-Directory-Videos-Demos/Azure-Active-Directory-Connect-Express-Settings/player/",
+    "Width": 640,
+    "Height": 360
+  },
+  
 ]
