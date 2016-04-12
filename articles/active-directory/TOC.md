@@ -85,7 +85,7 @@
 ### [Learn more about password management](active-directory-passwords-learn-more.md)
 ### [How to troubleshoot password management](active-directory-passwords-troubleshoot.md)
 ### [Password management FAQ](active-directory-passwords-faq.md)
-## [Multi-Factor Authentication](/multi-factor-authentication/multi-factor-authentication.md)
+## [Multi-Factor Authentication](/multi-factor-authentication/multi-factor-authentication)
 ## [Data, reports and analysis](active-directory-reporting-guide.md)
 ###[Getting started with Azure AD reporting](active-directory-reporting-getting-started.md)
 ###[Azure AD reporting guide](active-directory-reporting-guide.md)
