@@ -14,7 +14,7 @@
 ### [Download and install the MFA server](multi-factor-authentication-get-started-server.md#install-and-configure-the-azure-multi-factor-authentication-server)
 ### [Import users from Active Directory](multi-factor-authentication-get-started-server.md#import-users-from-active-directory)
 ### [Install the users portal](multi-factor-authentication-get-started-portal.md)
-### [Advanced server configuration](multi-factor-authentication-get-started-server.md#advanced-azure-multi-factor-authentication-server-configurations.md)
+### [Advanced server configuration](multi-factor-authentication-get-started-server.md#advanced-azure-multi-factor-authentication-server-configurations)
 ### [Advanced VPN configurations](multi-factor-authentication-advanced-vpn-configurations.md)
 ## [Azure MFA with AD FS](multi-factor-authentication-get-started-adfs.md)
 ### [Install the Azure MFA AD FS adapter](multi-factor-authentication-get-started-adfs-w2k12.md#to-install-the-ad-fs-adapter-standalone-using-the-web-service-sdk)
