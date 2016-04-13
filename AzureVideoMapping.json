@@ -65,4 +65,11 @@
     "Width": 640,
     "Height": 360
   },  
+  {
+    "Id": "configuring-ad-fs-for-user-sign-in-with-azure-ad-connect",
+    "Link": "https://channel9.msdn.com/Series/Azure-Active-Directory-Videos-Demos/Configuring-AD-FS-for-user-sign-in-with-Azure-AD-Connect/player/",
+    "Width": 640,
+    "Height": 360
+  },  
+
 ]
