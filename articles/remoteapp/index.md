@@ -10,6 +10,12 @@ layout: HubPage
      
          </section>
 
+      <aside class="alert section-border">
+      <p>Ready to get hands-on?</p>
+      <ol class="action-list">
+        <li><a href="https://azure.microsoft.com/en-us/free/" class="button-bordered button-translucent">Try Now</a></li>
+      </ol>
+    </aside>
    
     <section id="featured" class="container">
       <h2 class="section-heading"><span class="icon icon-warning"></span> Featured Content</h2>
