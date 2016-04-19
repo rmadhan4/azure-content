@@ -25,7 +25,8 @@ layout: HubPage
           <li><a href="remoteapp-threeminutes">Try Azure RemoteApp in 3 minutes</a></li>
         </ul>
         <ul class="column column-half">
-          <li><a href="remoteapp-appreqs">Will your App work with Azure RemoteApp?</a></li>
+          <li><a href="remoteapp-anyapp">Run any app on any device with Azure RemoteApp?</a></li>
+          <li><a href="remoteapp-appreqs">Will your app work with Azure RemoteApp?</a></li>
         </ul>
       </div>
     </section>
@@ -114,7 +115,6 @@ layout: HubPage
                 </li>
               </ul>
 
-              <a href="" class="see-more">See More</a>
             </section>
 
 
@@ -160,46 +160,7 @@ layout: HubPage
             </section>
 
           </li>
-          <li class="journey-step">
 
-            <header class="journey-step-header expander row expanded">
-              <a href="">
-                <div class="title column-third">
-                  <span class="step-number">4</span>
-                  <p>Plan &amp; Design</p>
-                </div>
-                <p class="description column-two-thirds">Figure out your ideal deployment for Azure RemoteApp.
-                </p>
-              </a>
-            </header>
-
-            <section class="journey-step-elements content">
-              <ul class="row">
-                <li class="column-third">
-                  <a href="remoteapp-appreqs">
-                    <h3>Will my app work?</h3>
-                    <p>Find out if your app will work with Azure RemoteApp.</p>
-                    <h4>Learn more</h4>
-                  </a>
-                </li>
-                <li class="column-third">
-                  <a href="remoteapp-collections">
-                    <h3>RemoteApp collections</h3>
-                    <p>Learn about Azure RemoteApp collections.</p>
-                    <h4>Learn more</h4>
-                  </a>
-                </li>
-                <li class="column-third">
-                  <a href="remoteapp-licensing">
-                    <h3>How does licensing work in Azure RemoteApp?</h3>
-                    <p>Learn how licensing works for the apps you share with Azure RemoteApp.</p>
-                    <h4>Learn more</h4>
-                  </a>
-                </li>
-              </ul>
-            </section>
-
-          </li>
           <li class="journey-step">
 
             <header class="journey-step-header expander row expanded">
