@@ -2,7 +2,7 @@
 asset_id: 3b6ec76e-8296-48ce-a9b2-70659314ea04
 layout: HubPage
 ---
-# Azure RemoteApp
+# Azure RemoteApp Documentation
 <article id="main">
     <section id="hero-content">
       <h1>Azure RemoteApp</h1>
