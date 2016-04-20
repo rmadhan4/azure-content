@@ -2,7 +2,7 @@
 ## [What is Azure Active Directory](active-directory-whatis.md)
 ## [Which edition should I choose?](active-directory-editions.md)
 # [Manage users](active-directory-create-users.md)
- ## [Create or edit users](active-directory-create-users.md)
+## [Create or edit users](active-directory-create-users.md)
 ## [Managing access to resources with Azure Active Directory groups](active-directory-manage-groups.md)
 ### [Managing security groups](active-directory-accessmanagement-manage-groups.md)
 ### [Using attributes to create advanced rules](active-directory-accessmanagement-groups-with-advanced-rules.md)
