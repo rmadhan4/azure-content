@@ -5,7 +5,7 @@ layout: HubPage
 # Multi-Factor Authentication Documentation
 <article id="main">
     <section id="hero-content">
-      <h1>Multi-Factor Authentication</h1>
+      <h1>Multi-Factor Authentication Documentation</h1>
       <h2>Multi-factor authentication (MFA) is a method of authentication that requires the use of more than one verification method and adds a critical second layer of security to user sign-ins and transactions. Azure Multi-Factor Authentication helps safeguard access to data and applications while meeting user demand for a simple sign-in process. It delivers strong authentication via a range of easy verification options—phone call, text message, or mobile app notification or verification code and 3rd party OATH tokens.</h2>
      
          </section>
@@ -92,7 +92,7 @@ layout: HubPage
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="multi-factor-authentication-get-started"">
+                  <a href="multi-factor-authentication-get-started">
                     <h3>What version is right for you?</h3>
                     <p>Choose the right version based on what you need to secure and where your users are.</p>
                     <h4>Learn more</h4>
