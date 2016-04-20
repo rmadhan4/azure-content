@@ -72,6 +72,7 @@ layout: HubPage
                   </a>
                 </li>
               </ul>
+              <a href="multi-factor-authentication" class="see-more">See More</a>
             </section>
 
           </li>
@@ -142,6 +143,7 @@ layout: HubPage
                   </a>
                 </li>
               </ul>
+              <a href="multi-factor-authentication-get-started-cloud" class="see-more">See More</a>
             </section>
 
           </li>
@@ -202,6 +204,7 @@ layout: HubPage
                   </a>
                 </li>
               </ul>
+              <a href="multi-factor-authentication-faq" class="see-more">See More</a>
             </section>
         <li class="journey-step">
 
@@ -240,6 +243,7 @@ layout: HubPage
                   </a>
                 </li>
               </ul>
+              <a href="multi-factor-authentication-end-user-first-time" class="see-more">See More</a>
             </section>
           </li>        
         </ul>
