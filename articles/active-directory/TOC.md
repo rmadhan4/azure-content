@@ -86,7 +86,7 @@
 ## [Assigning administrator roles in Azure Active Directory](active-directory-assign-admin-roles.md)
 ### [How Azure subscriptions are associated with Azure Active Directory]( active-directory-how-subscriptions-associated-directory.md)
 ## [Administrative units management in Azure AD](active-directory-administrative-units-management.md)
- ## [Azure role-based access control](role-based-access-control-configure.md)
+## [Azure role-based access control](role-based-access-control-configure.md)
 ### [Manage Role-Based Access Control with the Azure Command Line Interface](role-based-access-control-manage-access-azure-cli.md)
 ### [Manage Role-Based Access Control with Azure PowerShell](role-based-access-control-manage-access-powershell.md)
 ### [Managing Role-Based Access Control with the REST API](role-based-access-control-manage-access-rest.md)
