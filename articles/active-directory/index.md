@@ -136,7 +136,7 @@ layout: HubPage
                 <li class="column-third">
                   <a href="active-directory-manage-passwords">
                     <h3>Manage passwords</h3>
-                    <p>>Understand the full set of password management capabilities supported by Azure AD</p>
+                    <p>Understand the full set of password management capabilities supported by Azure AD</p>
                     <h4>Learn more</h4>
                   </a>
                 </li>
