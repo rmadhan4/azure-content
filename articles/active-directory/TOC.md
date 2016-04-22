@@ -159,4 +159,5 @@
 ### [Understand the Azure Active Directory application manifest](active-directory-application-manifest.md)
 ### [Preview: How to build apps that sign users in with both personal & work or school accounts](active-directory-appmodel-v2-overview.md)
 ### [Preview: How to build apps that sign up & sign in consumers](https://azure.microsoft.com/en-us/documentation/articles/active-directory-b2c-overview/)
+## [Active Directory Authentication Library .NET reference](/active-directory/adal/microsoft.identitymodel.clients.activedirectory)
 ## [Azure AD B2C](https://azure.microsoft.com/en-us/documentation/services/active-directory-b2c/)
