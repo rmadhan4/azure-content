@@ -2,7 +2,7 @@
 asset_id: c4a97980-6e19-4d10-bf69-f0b338266efa
 layout: HubPage
 ---
-# Azure Active Directoru Documentation
+# Azure Active Directory Documentation
 <article id="main">
     <section id="hero-content">
       <h1>Azure Active Directory Documentation</h1>
