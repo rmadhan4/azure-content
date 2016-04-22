@@ -32,7 +32,6 @@ layout: HubPage
 
     <div id="journeys">
       <section class="container">
-        <h2 class="section-heading"><span class="icon icon-inheritance"></span> Stages</h2>
         <ul class="journeys-list">
 
           <li class="journey-step">
@@ -117,7 +116,7 @@ layout: HubPage
               <a href="">
                 <div class="title column-third">
                   <span class="step-number">3</span>
-                  <p>Manage users</p>
+                  <p>Manage Users</p>
                 </div>
                 <p class="description column-two-thirds">Get up to speed on everything you need to know to managing users, passwords, and even company branding.
                 </p>
@@ -157,7 +156,7 @@ layout: HubPage
               <a href="">
                 <div class="title column-third">
                   <span class="step-number">4</span>
-                  <p>Manage access to apps</p>
+                  <p>Manage Access to Apps</p>
                 </div>
                 <p class="description column-two-thirds">Get up to speed on everything you need to know to deploy ATA within your organization.
                 </p>
@@ -197,7 +196,7 @@ layout: HubPage
               <a href="">
                 <div class="title column-third">
                   <span class="step-number">5</span>
-                  <p>Manage devices</p>
+                  <p>Manage Devices</p>
                 </div>
                 <p class="description column-two-thirds">Get up to speed on everything you need to know to control how devices can access your organization's resources.
                 </p>
@@ -277,7 +276,7 @@ layout: HubPage
               <a href="">
                 <div class="title column-third">
                   <span class="step-number">7</span>
-                  <p>Identity-driven security</p>
+                  <p>Identity-driven Security</p>
                 </div>
                 <p class="description column-two-thirds">Understand how the identity management capabilities of Azure AD help ensure the security of your organizational resources.
                 </p>
@@ -317,7 +316,7 @@ layout: HubPage
               <a href="">
                 <div class="title column-third">
                   <span class="step-number">8</span>
-                  <p>Develop apps</p>
+                  <p>Develop & Customize Apps</p>
                 </div>
                 <p class="description column-two-thirds">Learn how to integrate identity management into your apps and list your apps in the Azure AD app gallery.
                 </p>
