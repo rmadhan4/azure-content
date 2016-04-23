@@ -7,6 +7,7 @@ layout: HubPage
     <section id="hero-content">
       <h1>Azure RemoteApp</h1>
       <h2>Azure RemoteApp brings the functionality of the on-premises Microsoft RemoteApp program, backed by Remote Desktop Services, to Azure. Azure RemoteApp helps you provide secure, remote access to applications from many different user devices.</h2>
+      <h3>New to Azure RemoteApp? <a href="https://azure.microsoft.com/en-us/services/remoteapp/"> Visit our product page &rarr;</a></h3>
      
          </section>
 
@@ -25,7 +26,7 @@ layout: HubPage
           <li><a href="remoteapp-threeminutes">Try Azure RemoteApp in 3 minutes</a></li>
         </ul>
         <ul class="column column-half">
-          <li><a href="remoteapp-anyapp">Run any app on any device with Azure RemoteApp?</a></li>
+          <li><a href="remoteapp-anyapp">Run any app on any device with Azure RemoteApp</a></li>
           <li><a href="remoteapp-appreqs">Will your app work with Azure RemoteApp?</a></li>
         </ul>
       </div>
