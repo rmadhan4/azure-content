@@ -29,7 +29,7 @@
       }
     ],
     "globalMetadata": {
-      "breadcrumb_path": "/EM/toc.json",
+      "breadcrumb_path": "/enterprise-mobility/toc.json",
       "ROBOTS": "NOINDEX,NOFOLLOW"
     },
     "template": ["docs.html"],
