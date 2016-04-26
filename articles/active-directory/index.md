@@ -2,7 +2,7 @@
 asset_id: c4a97980-6e19-4d10-bf69-f0b338266efa
 layout: HubPage
 
-title: Azure Active Directory Documentation | Azure Active Directory
+title: Azure Active Directory Documentation
 description:
 keywords:
 author: msmbaldwin

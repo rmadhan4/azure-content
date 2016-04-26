@@ -2,7 +2,7 @@
 asset_id: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
 layout: HubPage
 
-title: Multi-Factor Authentication Documentation | Multi-Factor Authentication
+title: Multi-Factor Authentication Documentation
 description:
 keywords:
 author: msStevenPo

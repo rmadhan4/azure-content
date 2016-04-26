@@ -2,7 +2,7 @@
 asset_id: 3b6ec76e-8296-48ce-a9b2-70659314ea04
 layout: HubPage
 
-title: Azure RemoteApp Documentation | Azure RemoteApp
+title: Azure RemoteApp Documentation
 description:
 keywords:
 author: lizap
