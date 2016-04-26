@@ -249,12 +249,5 @@ layout: HubPage
       </section>
     </div>
 
-
-<!---    <aside class="alert alert-social">
-      <p>Keep up with Azure RemoteApp news</p>
-      <ol class="action-list">
-        <li><a href="https://blogs.msdn.microsoft.com/rds/" class="button-bordered button-translucent">Blog</a></li>
-      </ol>
-    </aside> --->
     
 </article>
