@@ -1,12 +1,28 @@
 ---
-asset_id: 3b6ec76e-8296-48ce-a9b2-70659314ea04
+asset_id: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
 layout: HubPage
+
+title: Multi-Factor Authentication Documentation | Multi-Factor Authentication
+description:
+keywords:
+author: msStevenPo
+manager: mbaldwin
+ms.date: 04/28/2016
+ms.topic: hubpage
+ms.prod: azure
+ms.service: multi-factor-authentication
+ms.technology: 
+ms.suite: ems
+ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
+
+
+
 ---
 # Multi-Factor Authentication Documentation
 <article id="main">
     <section id="hero-content">
       <h1>Multi-Factor Authentication Documentation</h1>
-      <h2>Multi-factor authentication (MFA) is a method of authentication that requires the use of more than one verification method and adds a critical second layer of security to user sign-ins and transactions. Azure Multi-Factor Authentication helps safeguard access to data and applications while meeting user demand for a simple sign-in process. It delivers strong authentication via a range of easy verification options—phone call, text message, or mobile app notification or verification code and 3rd party OATH tokens.</h2>
+      <h2>Learn how to set up Azure Multi-Factor Authentication (MFA), a method of authentication that requires more than one verification method and that adds a critical layer of security to user sign-ins and transactions.</h2>
      
          </section>
 

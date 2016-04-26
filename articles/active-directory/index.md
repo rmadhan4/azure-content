@@ -1,12 +1,26 @@
 ---
 asset_id: c4a97980-6e19-4d10-bf69-f0b338266efa
 layout: HubPage
+
+title: Azure Active Directory Documentation | Azure Active Directory
+description:
+keywords:
+author: msmbaldwin
+manager: mbaldwin
+ms.date: 04/28/2016
+ms.topic: hubpage
+ms.prod: azure
+ms.service: active-directory
+ms.technology:
+ms.suite: ems
+ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
+
 ---
 # Azure Active Directory Documentation
 <article id="main">
     <section id="hero-content">
       <h1>Azure Active Directory Documentation</h1>
-      <h2>Everything you need to know to deploy and manage Microsoft Azure Active Directory (AD).  Azure Active Directory is a comprehensive identity and access management cloud solution that provides a robust set of capabilities to manage users and groups. It helps secure access to on-premises and cloud applications, including Microsoft online services like Office 365 and many non-Microsoft SaaS applications. Azure Active Directory comes in 3 editions: Free, Basic, and Premium.</h2>
+      <h2>Learn how to deploy and manage Azure Active Directory, a comprehensive identity and access management cloud solution for managing users and groups. Tutorials show you how to set up secure access to on-premises and cloud applications.</h2>
       <h3>New to Azure AD? <a href="https://azure.microsoft.com/en-us/trial/get-started-active-directory/"> Visit our product page &rarr;</a></h3>
     </section>
 

@@ -1,12 +1,26 @@
 ---
 asset_id: 3b6ec76e-8296-48ce-a9b2-70659314ea04
 layout: HubPage
+
+title: Azure RemoteApp Documentation | Azure RemoteApp
+description:
+keywords:
+author: lizap
+manager: mbaldwin
+ms.date: 04/28/2016
+ms.topic: hubpage
+ms.prod: azure
+ms.service: remoteapp
+ms.technology:
+ms.suite: ems
+ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
+
 ---
 # Azure RemoteApp Documentation
 <article id="main">
     <section id="hero-content">
       <h1>Azure RemoteApp</h1>
-      <h2>Azure RemoteApp brings the functionality of the on-premises Microsoft RemoteApp program, backed by Remote Desktop Services, to Azure. Azure RemoteApp helps you provide secure, remote access to applications from many different user devices.</h2>
+      <h2>Learn how to set up and manage Azure RemoteApp in the cloud. Backed by Remote Desktop Services, RemoteApp helps you provide secure, remote access to applications from many different user devices.</h2>
       <h3>New to Azure RemoteApp? <a href="https://azure.microsoft.com/en-us/services/remoteapp/"> Visit our product page &rarr;</a></h3>
      
          </section>
