@@ -69,7 +69,7 @@
 ### [Set up a Windows 10 device with Azure AD from Settings](active-directory-azureadjoin-user-upgrade.md)
 ## [Authenticating identities without passwords through Microsoft Passport](active-directory-azureadjoin-passport.md)
 ### [Enable Microsoft Passport for Work in your organization](active-directory-azureadjoin-passport-deployment.md)
-# [Manage Access to Apps](active-directory-enable-sso-scenario.md)
+# [Manage Apps](active-directory-enable-sso-scenario.md)
 ## [Discovering applications](active-directory-cloudappdiscovery-whatis.md)
 ## [Integrate Azure AD with SaaS apps](active-directory-sso-integrate-saas-apps.md)
 ## [Sharing accounts](active-directory-sharing-accounts.md)
