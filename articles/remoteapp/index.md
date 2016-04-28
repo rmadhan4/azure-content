@@ -22,10 +22,9 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
       <h1>Azure RemoteApp</h1>
       <h2>Learn how to set up and manage Azure RemoteApp in the cloud. Backed by Remote Desktop Services, RemoteApp helps you provide secure, remote access to applications from many different user devices.</h2>
       <h3>New to Azure RemoteApp? <a href="https://azure.microsoft.com/en-us/services/remoteapp/" target="_blank> Visit our product page &rarr;</a></h3>
-     
-         </section>
+    </section>
 
-      <aside class="alert section-border">
+    <aside class="alert section-border">
       <p>Ready to get hands-on?</p>
       <ol class="action-list">
         <li><a href="https://azure.microsoft.com/en-us/free/" target="_blank class="button-bordered button-translucent">Try Now</a></li>
@@ -52,7 +51,7 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
 
           <li class="journey-step">
 
-            <header class="journey-step-header expander row expanded">
+            <header class="journey-step-header row">
               <a href="">
                 <div class="title column-third">
                   <span class="step-number">1</span>
@@ -85,12 +84,10 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
                 </li>
               </ul>
             </section>
-
           </li>
 
           <li class="journey-step">
-
-            <header class="journey-step-header expander row expanded">
+            <header class="journey-step-header row">
               <a href="">
                 <div class="title column-third">
                   <span class="step-number">2</span>
@@ -129,8 +126,7 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
           </li>
 
           <li class="journey-step">
-
-            <header class="journey-step-header expander row expanded">
+            <header class="journey-step-header row">
               <a href="">
                 <div class="title column-third">
                   <span class="step-number">3</span>
@@ -167,8 +163,7 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
           </li>
 
           <li class="journey-step">
-
-            <header class="journey-step-header expander row expanded">
+            <header class="journey-step-header row">
               <a href="">
                 <div class="title column-third">
                   <span class="step-number">4</span>
@@ -201,9 +196,7 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
                 </li>
               </ul>
             </section>
-
           </li>
-
         </ul>
       </section>
     </div>
