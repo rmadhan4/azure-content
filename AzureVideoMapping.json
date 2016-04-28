@@ -1,13 +1,13 @@
 [
   {
     "Id": "azure-active-directory-connect-express-settings",
-    "Link": "http://channel9.msdn.com/Series/Azure-Active-Directory-Videos-Demos/Azure-Active-Directory-Connect-Express-Settings/player/",
+    "Link": "https://channel9.msdn.com/Series/Azure-Active-Directory-Videos-Demos/Azure-Active-Directory-Connect-Express-Settings/player/",
     "Width": 640,
     "Height": 360
   },
   {
     "Id": "azure-ad-connect-health--monitor-you-identity-bridge",
-    "Link": "http://channel9.msdn.com/Series/Azure-Active-Directory-Videos-Demos/Azure-AD-Connect-Health--Monitor-you-identity-bridge/player/",
+    "Link": "https://channel9.msdn.com/Series/Azure-Active-Directory-Videos-Demos/Azure-AD-Connect-Health--Monitor-you-identity-bridge/player/",
     "Width": 640,
     "Height": 360
   },
@@ -25,13 +25,13 @@
   },
   {
     "Id": "integrating-salesforce-with-azure-ad-how-to-enable-single-sign-on",
-    "Link": "http://channel9.msdn.com/Series/Azure-Active-Directory-Videos-Demos/Integrating-Salesforce-with-Azure-AD-How-to-enable-Single-Sign-On-12/player/",
+    "Link": "https://channel9.msdn.com/Series/Azure-Active-Directory-Videos-Demos/Integrating-Salesforce-with-Azure-AD-How-to-enable-Single-Sign-On-12/player/",
     "Width": 640,
     "Height": 360
   },
   {
     "Id": "integrating-salesforce-with-azure-ad-how-to-automate-user-provisioning",
-    "Link": "http://channel9.msdn.com/Series/Azure-Active-Directory-Videos-Demos/Integrating-Salesforce-with-Azure-AD-How-to-automate-User-Provisioning-22/player/",
+    "Link": "https://channel9.msdn.com/Series/Azure-Active-Directory-Videos-Demos/Integrating-Salesforce-with-Azure-AD-How-to-automate-User-Provisioning-22/player/",
     "Width": 640,
     "Height": 360
   },
@@ -43,13 +43,13 @@
   },
   {
     "Id": "windows-azure-multi-factor-authentication",
-    "Link": "http://channel9.msdn.com/Blogs/Windows-Azure/Windows-Azure-Multi-Factor-Authentication/player/",
+    "Link": "https://channel9.msdn.com/Blogs/Windows-Azure/Windows-Azure-Multi-Factor-Authentication/player/",
     "Width": 640,
     "Height": 360
   },
   {
     "Id": "multi-factor-authentication-deep-dive-securing-access-on-premises",
-    "Link": "http://channel9.msdn.com/Events/TechEd/Europe/2014/EM-B313/player/",
+    "Link": "https://channel9.msdn.com/Events/TechEd/Europe/2014/EM-B313/player/",
     "Width": 640,
     "Height": 360
   },
