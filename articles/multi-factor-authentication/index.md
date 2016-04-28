@@ -24,13 +24,7 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
       <h1>Multi-Factor Authentication Documentation</h1>
       <h2>Learn how to set up Azure Multi-Factor Authentication (MFA), a method of authentication that requires more than one verification method and that adds a critical layer of security to user sign-ins and transactions.</h2>
     </section>
-    <aside class="alert section-border">
-      <p>Ready to get hands-on?</p>
-      <ol class="action-list">
-        <li><a href="https://azure.microsoft.com/en-us/free/" class="button-bordered button-translucent">Try Now</a></li>
-      </ol>
-    </aside>
-   
+
     <section id="featured" class="container">
       <h2 class="section-heading"><span class="icon icon-warning"></span> Featured Content</h2>
       <div class="features row">

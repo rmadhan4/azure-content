@@ -21,13 +21,13 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
     <section id="hero-content">
       <h1>Azure Active Directory Documentation</h1>
       <h2>Learn how to deploy and manage Azure Active Directory, a comprehensive identity and access management cloud solution for managing users and groups. Tutorials show you how to set up secure access to on-premises and cloud applications.</h2>
-      <h3>New to Azure AD? <a href="https://azure.microsoft.com/en-us/trial/get-started-active-directory/"> Visit our product page &rarr;</a></h3>
+      <h3>New to Azure AD? <a href="https://azure.microsoft.com/en-us/trial/get-started-active-directory/" target="_blank"> Visit our product page &rarr;</a></h3>
     </section>
 
     <aside class="alert section-border">
       <p>Ready to get hands-on?</p>
       <ol class="action-list">
-        <li><a href="https://azure.microsoft.com/en-us/trial/get-started-active-directory/" class="button-bordered button-translucent">Test drive Azure AD Premium</a></li>
+        <li><a href="https://azure.microsoft.com/en-us/trial/get-started-active-directory/" target="_blank" class="button-bordered button-translucent">Test drive Azure AD Premium</a></li>
       </ol>
     </aside>
 
@@ -65,7 +65,7 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 <li class="column-third">
                   <a href="active-directory-whatis">
                     <h3>What is Azure Active Directory?</h3>
-                    <p>Learn about Azure Active Directory and its capabilities</p>
+                    <p>Learn about Azure Active Directory and its capabilities.</p>
                   </a>
                 </li>
                 <li class="column-third">
@@ -192,7 +192,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
           </li>
 
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="active-directory-conditional-access-device-registration-overview">
                 <div class="title column-third">
@@ -209,7 +208,7 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 <li class="column-third">
                   <a href="active-directory-conditional-access-device-registration-overview">
                     <h3>Register devices</h3>
-                    <p>Control which devices can access your organizations resources</p>
+                    <p>Control which devices can access your organization's resources.</p>
                   </a>
                 </li>
                 <li class="column-third">
@@ -229,8 +228,7 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
           </li>
 
           <li class="journey-step">
-
-            <header class="journey-step-header expander row expanded">
+            <header class="journey-step-header row">
               <a href="active-directory-manage-groups">
                 <div class="title column-third">
                   <span class="step-number">6</span>
@@ -345,7 +343,7 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
     <aside class="alert alert-social">
       <p>Keep up with news about Azure AD</p>
       <ol class="action-list">
-        <li><a href="https://blogs.technet.microsoft.com/ad/" class="button-bordered button-translucent">official Active Directory team blog</a></li>
+        <li><a href="https://blogs.technet.microsoft.com/ad/" target="_blank" class="button-bordered button-translucent">official Active Directory team blog</a></li>
       </ol>
     </aside>
 </article>
