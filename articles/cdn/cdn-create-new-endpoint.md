@@ -84,7 +84,7 @@ A CDN profile is a collection of CDN endpoints.  Each profile contains one or mo
 	
 	> [AZURE.TIP] Accessing CDN content using HTTPS has the following constraints:
 	> 
-	> - You must use SSL the certificate provided by the CDN. Third party certificates are not supported.
+	> - You must use the SSL certificate provided by the CDN. Third party certificates are not supported.
 	> - You must use the CDN-provided domain (`<endpointname>.azureedge.net`) to access HTTPS content. HTTPS support is not available for custom domain names (CNAMEs) since the CDN does not support custom certificates at this time.
 
 9. Click the **Add** button to create the new endpoint.
@@ -93,7 +93,7 @@ A CDN profile is a collection of CDN endpoints.  Each profile contains one or mo
 
     ![CDN endpoint][cdn-endpoint-success]
 
-    > [AZURE.IMPORTANT] The endpoint will not immediately be available for use, as it takes time for the registration to propagate through the CDN network.  It will usually be available within 90 minutes, but in some cases can take longer.
+    > [AZURE.IMPORTANT] The endpoint will not immediately be available for use, as it takes time for the registration to propagate through the CDN.  It will usually be available within 90 minutes, but in some cases can take longer.
 	>	 
 	> Users who try to use the CDN domain name before the endpoint configuration has propagated to the POPs will receive HTTP 404 response codes. 
 
