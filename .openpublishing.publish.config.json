@@ -1,7 +1,7 @@
 {
   "build_entry_point": "BuildAzureContent.ps1",
   "git_repository_url_open_to_public_contributors": "https://github.com/Azure/azure-content",
-  "preferred_contribute_branch": "master",
+  "git_repository_branch_open_to_public_contributors": "master",
   "skip_source_output_uploading": true,
   "docsets_to_publish": [
     {
