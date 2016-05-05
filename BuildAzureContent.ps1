@@ -23,7 +23,15 @@ if((Test-Path "$AzureMarkdownRewriterToolUnzipFolder"))
 $AzureMarkdownRewriterTool = "$AzureMarkdownRewriterToolUnzipFolder\Microsoft.DocAsCode.Tools.AzureMarkdownRewriterTool.exe"
 
 # Create azure args file
-$azureDocumentUriPrefix = "https://azure.microsoft.com/en-us/documentation/articles"
+$publishConfigFile = Join-Path $repositoryRoot ".openpublishing.publish.config.json"
+$publishConfigContent = (Get-Content $publishConfigFile -Raw) | ConvertFrom-Json
+$locale = $publishConfigContent.docsets_to_publish[0].locale
+if([string]::IsNullOrEmpty($locale))
+{
+    $locale = "en-us"
+}
+
+$azureDocumentUriPrefix = "https://azure.microsoft.com/$locale/documentation/articles"
 
 $transformCommonDirectory = "$repositoryRoot\articles"
 $transformDirectoriesToCommonDirectory = @("active-directory", "multi-factor-authentication", "remoteapp")
