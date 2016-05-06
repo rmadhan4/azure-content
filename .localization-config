@@ -3,5 +3,6 @@
   "files": ["articles/artive-directory/TOC.md", "articles/artive-directory/index.md","articles/remoteapp/TOC.md", "articles/remoteapp/index.md","articles/multi-factor-authentication/TOC.md", "articles/multi-factor-authentication/index.md"],
   "includeDependencies": false,
   "autoPush": true,
-  "xliffVersion": "1.2"
+  "xliffVersion": "1.2",
+  "translationSysFileDestination": "HandbackRepo"
 }
