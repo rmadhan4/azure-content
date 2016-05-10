@@ -87,7 +87,7 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                   <span class="step-number">2</span>
                   <p>Manage your Azure Active Directory</p>
                 </div>
-                <p class="description column-two-thirds">Get up to speed on what you need to know to manage your subscriptions, domains, and B2B collaboration.
+                <p class="description column-two-thirds">Get up to speed on what you need to know to manage your subscriptions, domains, and Azure AD B2B collaboration.
                 </p>
               </a>
             </header>
@@ -108,7 +108,7 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 </li>
                 <li class="column-third">
                   <a href="active-directory-b2b-collaboration-overview">
-                    <h3>Azure B2B collaboration</h3>
+                    <h3>Azure AD B2B collaboration</h3>
                     <p>Enable access to your corporate applications from partner-managed identities</p>
                   </a>
                 </li>
