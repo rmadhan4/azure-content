@@ -1,15 +1,3 @@
-[submodule "Submodule for active-directory"]
-	path = articles/active-directory/_themes
-	url = https://github.com/Microsoft/templates.docs.msft
-	branch = master
-[submodule "Submodule for multi-factor-authentication"]
-	path = articles/multi-factor-authentication/_themes
-	url = https://github.com/Microsoft/templates.docs.msft
-	branch = master
-[submodule "Submodule for remoteapp"]
-	path = articles/remoteapp/_themes
-	url = https://github.com/Microsoft/templates.docs.msft
-	branch = master
 [submodule "docs themes for _themes"]
 	path = _themes
 	url = https://github.com/Microsoft/templates.docs.msft

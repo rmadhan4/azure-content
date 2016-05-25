@@ -14,9 +14,8 @@
       {
         "files": [
           "media/**",
-          "_themes/**",
-	  "ex_resource/**",
-	  "**/*.png",
+          "ex_resource/**",
+          "**/*.png",
           "**/*.jpg",
           "**/*.gif",
           "**/*.bmp",
@@ -24,7 +23,7 @@
         ],
         "exclude": [
           "**/obj/**",
-          "_themes/DocPacker/**"
+          "_themes/**"
         ]
       }
     ],
