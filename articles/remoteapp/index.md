@@ -1,7 +1,6 @@
 ---
 asset_id: 3b6ec76e-8296-48ce-a9b2-70659314ea04
 layout: HubPage
-
 title: Azure RemoteApp Documentation
 description:
 keywords:
@@ -14,7 +13,6 @@ ms.service: remoteapp
 ms.technology:
 ms.suite: ems
 ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
-
 ---
 # Azure RemoteApp Documentation
 <article id="main">
@@ -23,14 +21,12 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
       <h2>Learn how to set up and manage Azure RemoteApp in the cloud. Backed by Remote Desktop Services, RemoteApp helps you provide secure, remote access to applications from many different user devices.</h2>
       <h3>New to Azure RemoteApp? <a href="https://azure.microsoft.com/en-us/services/remoteapp/" target="_blank"> Visit our product page &rarr;</a></h3>
     </section>
-
     <aside class="alert section-border">
       <p>Ready to get hands-on?</p>
       <ol class="action-list">
         <li><a href="https://azure.microsoft.com/en-us/free/" target="_blank" class="button-bordered button-translucent">Try Now</a></li>
       </ol>
     </aside>
-   
     <section id="featured" class="container">
       <h2 class="section-heading"><span class="icon icon-warning"></span> Featured Content</h2>
       <div class="features row">
@@ -44,13 +40,10 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
         </ul>
       </div>
     </section>
-
     <div id="journeys">
       <section class="container">
         <ul class="journeys-list">
-
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="">
                 <div class="title column-third">
@@ -61,7 +54,6 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -85,7 +77,6 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
               </ul>
             </section>
           </li>
-
           <li class="journey-step">
             <header class="journey-step-header row">
               <a href="">
@@ -97,7 +88,6 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -119,12 +109,8 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
                   </a>
                 </li>
               </ul>
-
             </section>
-
-
           </li>
-
           <li class="journey-step">
             <header class="journey-step-header row">
               <a href="">
@@ -136,7 +122,6 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -159,9 +144,7 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
                 </li>
               </ul>
             </section>
-
           </li>
-
           <li class="journey-step">
             <header class="journey-step-header row">
               <a href="">
@@ -173,7 +156,6 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -200,8 +182,6 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
         </ul>
       </section>
     </div>
-
-
     <aside class="alert alert-social">
       <p>Keep up with Azure RemoteApp news</p>
       <ol class="action-list">
