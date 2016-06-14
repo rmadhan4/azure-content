@@ -1,7 +1,6 @@
 ---
 asset_id: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
 layout: HubPage
-
 title: Multi-Factor Authentication Documentation
 description:
 keywords:
@@ -14,9 +13,6 @@ ms.service: multi-factor-authentication
 ms.technology: 
 ms.suite: ems
 ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
-
-
-
 ---
 # Multi-Factor Authentication Documentation
 <article id="main">
@@ -24,7 +20,6 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
       <h1>Multi-Factor Authentication Documentation</h1>
       <h2>Learn how to set up Azure Multi-Factor Authentication (MFA), a method of authentication that requires more than one verification method and that adds a critical layer of security to user sign-ins and transactions.</h2>
     </section>
-
     <section id="featured" class="container">
       <h2 class="section-heading"><span class="icon icon-warning"></span> Featured Content</h2>
       <div class="features row">
@@ -37,13 +32,10 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
         </ul>
       </div>
     </section>
-
     <div id="journeys">
       <section class="container">
         <ul class="journeys-list">
-
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="multi-factor-authentication">
                 <div class="title column-third">
@@ -54,7 +46,6 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -77,11 +68,8 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
                 </li>
               </ul>
             </section>
-
           </li>
-
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="">
                 <div class="title column-third">
@@ -92,7 +80,6 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -104,9 +91,7 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
               </ul>
             </section>
           </li>
-
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="multi-factor-authentication-get-started-cloud">
                 <div class="title column-third">
@@ -117,7 +102,6 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -141,9 +125,7 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
               </ul>
             </section>
           </li>
-
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="">
                 <div class="title column-third">
@@ -154,7 +136,6 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -167,7 +148,6 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
             </section>
           </li>
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="multi-factor-authentication-faq">
                 <div class="title column-third">
@@ -178,7 +158,6 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -196,7 +175,6 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
               </ul>
             </section>
         <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="multi-factor-authentication-end-user-first-time">
                 <div class="title column-third">
@@ -207,7 +185,6 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">

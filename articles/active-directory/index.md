@@ -1,7 +1,6 @@
 ---
 asset_id: c4a97980-6e19-4d10-bf69-f0b338266efa
 layout: HubPage
-
 title: Azure Active Directory Documentation
 description:
 keywords:
@@ -14,7 +13,6 @@ ms.service: active-directory
 ms.technology:
 ms.suite: ems
 ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
-
 ---
 # Azure Active Directory Documentation
 <article id="main">
@@ -23,14 +21,12 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
       <h2>Learn how to deploy and manage Azure Active Directory, a comprehensive identity and access management cloud solution for managing users and groups. Tutorials show you how to set up secure access to on-premises and cloud applications.</h2>
       <h3>New to Azure AD? <a href="https://www.microsoft.com/en-us/server-cloud/products/azure-active-directory/" target="_blank"> Visit our product page &rarr;</a></h3>
     </section>
-
     <aside class="alert section-border">
       <p>Ready to get hands-on?</p>
       <ol class="action-list">
         <li><a href="https://azure.microsoft.com/en-us/trial/get-started-active-directory/" target="_blank" class="button-bordered button-translucent">Test drive Azure AD Premium</a></li>
       </ol>
     </aside>
-
     <section id="featured" class="container">
       <h2 class="section-heading"><span class="icon icon-warning"></span> Featured Content</h2>
       <div class="features row">
@@ -43,13 +39,10 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
         </ul>
       </div>
     </section>
-
     <div id="journeys">
       <section class="container">
         <ul class="journeys-list">
-
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="">
                 <div class="title column-third">
@@ -59,7 +52,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 <p class="description column-two-thirds">Learn the high-level concepts, features, and capabilities of Azure Active Directory.</p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -76,11 +68,8 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 </li>
               </ul>
             </section>
-
           </li>
-
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="active-directory-how-subscriptions-associated-directory">
                 <div class="title column-third">
@@ -91,7 +80,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -114,11 +102,8 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 </li>
               </ul>
             </section>
-
           </li>
-
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="active-directory-create-users">
                 <div class="title column-third">
@@ -129,7 +114,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -153,9 +137,7 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                </ul>
             </section>
           </li>
-
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="active-directory-enable-sso-scenario">
                 <div class="title column-third">
@@ -166,7 +148,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -190,7 +171,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                </ul>
             </section>
           </li>
-
           <li class="journey-step">
             <header class="journey-step-header row">
               <a href="active-directory-conditional-access-device-registration-overview">
@@ -202,7 +182,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -226,7 +205,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
               </ul>
             </section>
           </li>
-
           <li class="journey-step">
             <header class="journey-step-header row">
               <a href="active-directory-manage-groups">
@@ -238,7 +216,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -262,9 +239,7 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
               </ul>
             </section>
           </li>
-
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="active-directory-identityprotection">
                 <div class="title column-third">
@@ -275,7 +250,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -299,9 +273,7 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
               </ul>
             </section>
           </li>
-
           <li class="journey-step">
-
             <header class="journey-step-header row">
               <a href="active-directory-developers-guide">
                 <div class="title column-third">
@@ -312,7 +284,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
                 </p>
               </a>
             </header>
-
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
@@ -339,7 +310,6 @@ ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
         </ul>
       </section>
     </div>
-
     <aside class="alert alert-social">
       <p>Keep up with news about Azure AD</p>
       <ol class="action-list">
