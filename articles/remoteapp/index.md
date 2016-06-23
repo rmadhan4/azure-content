@@ -19,12 +19,12 @@ ms.assetid: 3b6ec76e-8296-48ce-a9b2-70659314ea04
     <section id="hero-content">
       <h1>Azure RemoteApp</h1>
       <h2>Learn how to set up and manage Azure RemoteApp in the cloud. Backed by Remote Desktop Services, RemoteApp helps you provide secure, remote access to applications from many different user devices.</h2>
-      <h3>New to Azure RemoteApp? <a href="https://azure.microsoft.com/en-us/services/remoteapp/" target="_blank"> Visit our product page &rarr;</a></h3>
+      <h3>New to Azure RemoteApp? <a href="https://azure.microsoft.com/services/remoteapp/" target="_blank"> Visit our product page &rarr;</a></h3>
     </section>
     <aside class="alert section-border">
       <p>Ready to get hands-on?</p>
       <ol class="action-list">
-        <li><a href="https://azure.microsoft.com/en-us/free/" target="_blank" class="button-bordered button-translucent">Try Now</a></li>
+        <li><a href="https://azure.microsoft.com/free/" target="_blank" class="button-bordered button-translucent">Try Now</a></li>
       </ol>
     </aside>
     <section id="featured" class="container">
