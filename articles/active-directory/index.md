@@ -12,7 +12,7 @@ ms.prod: azure
 ms.service: active-directory
 ms.technology:
 ms.suite: ems
-ms.assetid: c4a97980-6e19-4d10-bf69-f0b338266efa
+ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
 ---
 # Azure Active Directory Documentation
 <article id="main">
