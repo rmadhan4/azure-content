@@ -74,7 +74,6 @@
 ## [Integrate Azure AD with SaaS apps](active-directory-sso-integrate-saas-apps.md)
 ## [Sharing accounts](active-directory-sharing-accounts.md)
 ## [Guiding developers](active-directory-applications-guiding-developers-for-lob-applications.md)
-## [Enabling hybrid access](active-directory-appssoaccess-enable-hybrid-access.md)
 ## [Assigning access to apps](active-directory-managing-access-to-apps.md)
 ## [Document library for managing applications](active-directory-apps-index.md)
 # [Manage your Azure Active Directory](active-directory-how-subscriptions-associated-directory.md)
