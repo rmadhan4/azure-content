@@ -57,7 +57,7 @@
 ## [Registering devices](active-directory-conditional-access-device-registration-overview.md)
 ### [Automatic device registration with Azure Active Directory](active-directory-conditional-access-automatic-device-registration.md)
 ### [Configure automatic device registration for Windows 7 domain joined devices](active-directory-conditional-access-automatic-device-registration-windows7.md)
-### [Configure automatic device registration for Windows 8.1 domain joined devices](active-directory-conditional-access-automatic-device-registration-windows8_1.md)
+### [Configure automatic device registration for Windows 8.1 domain joined devices](active-directory-conditional-access-automatic-device-registration-windows-8-1.md)
 ### [Connect domain-joined devices to Azure AD for Windows 10 experiences](active-directory-azureadjoin-devices-group-policy.md)
 ## [Windows 10 for the enterprise: Ways to use devices for work](active-directory-azureadjoin-windows10-devices-overview.md)
 ### [Using Windows 10 devices in your workplace](active-directory-azureadjoin-windows10-devices.md)
