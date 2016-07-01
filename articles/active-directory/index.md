@@ -157,12 +157,6 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-appssoaccess-enable-hybrid-access">
-                    <h3>Enabling hybrid access</h3>
-                    <p>Use Azure AD Application Proxy to provide secure access to applications located inside your private network</p>
-                  </a>
-                </li>
-                <li class="column-third">
                   <a href="active-directory-sso-integrate-saas-apps">
                     <h3>Integrate Azure AD with SaaS apps</h3>
                     <p>Manage multiple apps and provide users with a consistent sign-on experience</p>
