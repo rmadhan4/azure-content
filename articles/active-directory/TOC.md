@@ -26,7 +26,6 @@
 ### [Getting started with Azure Active Directory Reporting](active-directory-reporting-getting-started.md)
 ### [Azure Active Directory Reporting Guide](active-directory-reporting-guide.md)
 #### [Azure Active Directory Reporting Search](active-directory-reporting-search.md)
-#### [Azure Active Directory All User Sign In Activity report](active-directory-reporting-all-user-sign-in-activity-report.md)
 #### [Azure Active Directory Audit Report Events](active-directory-reporting-audit-events.md)
 #### [Azure Active Directory Report Backfill Times](active-directory-reporting-backfill.md)
 #### [Irregular sign in activity](active-directory-reporting-irregular-sign-in-activity.md)
