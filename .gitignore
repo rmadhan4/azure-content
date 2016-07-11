@@ -11,3 +11,6 @@ _site/
 .openpublishing.buildcore.ps1
 packages.config
 *.tmp
+
+_themes
+

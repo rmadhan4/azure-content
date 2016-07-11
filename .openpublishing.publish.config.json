@@ -1,47 +1,43 @@
 {
   "build_entry_point": "BuildAzureContent.ps1",
-  "git_repository_url_open_to_public_contributors": "https://github.com/Azure/azure-content",
-  "git_repository_branch_open_to_public_contributors": "master",
-  "skip_source_output_uploading": true,
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "active-directory",
-      "build_source_folder": null,
       "build_output_subfolder": "articles/active-directory",
-      "build_entry_point": "docs",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content"
-      }
+      },
+      "build_entry_point": "docs"
     },
     {
       "docset_name": "multi-factor-authentication",
-      "build_source_folder": null,
       "build_output_subfolder": "articles/multi-factor-authentication",
-      "build_entry_point": "docs",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content"
-      }
+      },
+      "build_entry_point": "docs"
     },
     {
       "docset_name": "remoteapp",
-      "build_source_folder": null,
       "build_output_subfolder": "articles/remoteapp",
-      "build_entry_point": "docs",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content"
-      }
+      },
+      "build_entry_point": "docs"
     }
   ],
   "notification_subscribers": [
@@ -51,5 +47,16 @@
     "binliu@microsoft.com",
     "huxie@microsoft.com",
     "saldana@microsoft.com",
-    "kenchen@microsoft.com"]
+    "kenchen@microsoft.com"
+  ],
+  "git_repository_url_open_to_public_contributors": "https://github.com/Azure/azure-content",
+  "git_repository_branch_open_to_public_contributors": "master",
+  "skip_source_output_uploading": true,
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
+      "branch": "master"
+    }
+  ]
 }
