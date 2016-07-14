@@ -167,7 +167,7 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
                   </a>
                 </li>
                <li class="column-third">
-                  <a href="multi-factor-authentication-end-user-manage-settings">
+                  <a href="/multi-factor-authentication/multi-factor-authentication-end-user-manage-settings">
                     <h3>Having trouble signing in?</h3>
                     <p>Learn how to resolve common issues with Azure MFA.</p>
                   </a>
