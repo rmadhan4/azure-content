@@ -1,7 +1,7 @@
 ---
 asset_id: c4a97980-6e19-4d10-bf69-f0b338266efa
 layout: HubPage
-title: Azure Active Directory Documentation
+title: Azure Active Directory Documentation | Microsoft Docs
 description:
 keywords:
 author: msmbaldwin
@@ -31,11 +31,11 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
       <h2 class="section-heading"><span class="icon icon-warning"></span> Featured Content</h2>
       <div class="features row">
         <ul class="column column-half">
-          <li><a href="active-directory-whatis">What is Azure Active Directory?</a></li>
-          <li><a href="active-directory-identityprotection">Azure AD Identity Protection</a></li>
+          <li><a href="/active-directory/active-directory-whatis">What is Azure Active Directory?</a></li>
+          <li><a href="/active-directory/active-directory-identityprotection">Azure AD Identity Protection</a></li>
         </ul>
         <ul class="column column-half">
-          <li><a href="active-directory-b2b-what-is-azure-ad-b2b">What is Azure AD B2B collaboration?</a></li>
+          <li><a href="/active-directory/active-directory-b2b-what-is-azure-ad-b2b">What is Azure AD B2B collaboration?</a></li>
         </ul>
       </div>
     </section>
@@ -55,13 +55,13 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="active-directory-whatis">
+                  <a href="/active-directory/active-directory-whatis">
                     <h3>What is Azure Active Directory?</h3>
                     <p>Learn about Azure Active Directory and its capabilities.</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-editions">
+                  <a href="/active-directory/active-directory-editions">
                     <h3>Azure AD Editions</h3>
                     <p>Decide which version of Azure Active Directory is right for your organization</p>
                   </a>
@@ -71,7 +71,7 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
           </li>
           <li class="journey-step">
             <header class="journey-step-header row">
-              <a href="active-directory-how-subscriptions-associated-directory">
+              <a href="/active-directory/active-directory-how-subscriptions-associated-directory">
                 <div class="title column-third">
                   <span class="step-number">2</span>
                   <p>Manage your Azure Active Directory</p>
@@ -83,19 +83,19 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="active-directory-how-subscriptions-associated-directory">
+                  <a href="/active-directory/active-directory-how-subscriptions-associated-directory">
                     <h3>How Azure subscriptions are associated with Azure AD</h3>
                     <p>Learn about the relationship between an Azure subscription and Azure Active Directory (Azure AD).</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-add-domain">
+                  <a href="/active-directory/active-directory-add-domain">
                     <h3>Use custom domain names</h3>
                     <p>Improve and simplify sign-in and other user experiences in Azure Active Directory by using custom domain names</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-b2b-collaboration-overview">
+                  <a href="/active-directory/active-directory-b2b-collaboration-overview">
                     <h3>Azure AD B2B collaboration</h3>
                     <p>Enable access to your corporate applications from partner-managed identities</p>
                   </a>
@@ -105,7 +105,7 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
           </li>
           <li class="journey-step">
             <header class="journey-step-header row">
-              <a href="active-directory-create-users">
+              <a href="/active-directory/active-directory-create-users">
                 <div class="title column-third">
                   <span class="step-number">3</span>
                   <p>Manage Users</p>
@@ -117,19 +117,19 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="active-directory-create-users">
+                  <a href="/active-directory/active-directory-create-users">
                     <h3>Create or edit users</h3>
                     <p>Learn how to define, update, and remove user accounts</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-manage-passwords">
+                  <a href="/active-directory/active-directory-manage-passwords">
                     <h3>Manage passwords</h3>
                     <p>Understand the full set of password management capabilities supported by Azure AD</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-add-company-branding">
+                  <a href="/active-directory/active-directory-add-company-branding">
                     <h3>Add company branding</h3>
                     <p>Learn how to apply a consistent look and feel across your websites and services</p>
                   </a>
@@ -139,7 +139,7 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
           </li>
           <li class="journey-step">
             <header class="journey-step-header row">
-              <a href="active-directory-enable-sso-scenario">
+              <a href="/active-directory/active-directory-enable-sso-scenario">
                 <div class="title column-third">
                   <span class="step-number">4</span>
                   <p>Manage Access to Apps</p>
@@ -151,13 +151,13 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="active-directory-enable-sso-scenario">
+                  <a href="/active-directory/active-directory-enable-sso-scenario">
                     <h3>Manage access to apps</h3>
                     <p>Control who is allowed to use which apps in your organization</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-sso-integrate-saas-apps">
+                  <a href="/active-directory/active-directory-sso-integrate-saas-apps">
                     <h3>Integrate Azure AD with SaaS apps</h3>
                     <p>Manage multiple apps and provide users with a consistent sign-on experience</p>
                   </a>
@@ -167,7 +167,7 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
           </li>
           <li class="journey-step">
             <header class="journey-step-header row">
-              <a href="active-directory-conditional-access-device-registration-overview">
+              <a href="/active-directory/active-directory-conditional-access-device-registration-overview">
                 <div class="title column-third">
                   <span class="step-number">5</span>
                   <p>Manage Devices</p>
@@ -179,19 +179,19 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="active-directory-conditional-access-device-registration-overview">
+                  <a href="/active-directory/active-directory-conditional-access-device-registration-overview">
                     <h3>Register devices</h3>
                     <p>Control which devices can access your organization's resources.</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-azureadjoin-windows10-devices-overview">
+                  <a href="/active-directory/active-directory-azureadjoin-windows10-devices-overview">
                     <h3>Windows 10: Use devices for work</h3>
                     <p>Enable users to use Windows 10 devices to access business apps and resources</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-azureadjoin-passport">
+                  <a href="/active-directory/active-directory-azureadjoin-passport">
                     <h3>Authenticate identities using Microsoft Passport</h3>
                     <p>Enable use of Microsoft Passport to authenticate users and let them access protected resources and services</p>
                   </a>
@@ -201,7 +201,7 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
           </li>
           <li class="journey-step">
             <header class="journey-step-header row">
-              <a href="active-directory-manage-groups">
+              <a href="/active-directory/active-directory-manage-groups">
                 <div class="title column-third">
                   <span class="step-number">6</span>
                   <p>Delegation</p>
@@ -213,19 +213,19 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="active-directory-manage-groups">
+                  <a href="/active-directory/active-directory-manage-groups">
                     <h3>Manage access to resources with Azure AD groups</h3>
                     <p>Delegate permission to assign users to resources through group membership</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-privileged-identity-management-configure">
+                  <a href="/active-directory/active-directory-privileged-identity-management-configure">
                     <h3>Get started with Privileged Identity Management</h3>
                     <p>Manage, control, and monitor your privileged identities and their access to resources in Azure AD</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="role-based-access-control-configure">
+                  <a href="/active-directory/role-based-access-control-configure">
                     <h3>Azure Role-Based Access Control</h3>
                     <p>Enables fine-grained access management for Azure</p>
                   </a>
@@ -235,7 +235,7 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
           </li>
           <li class="journey-step">
             <header class="journey-step-header row">
-              <a href="active-directory-identityprotection">
+              <a href="/active-directory/active-directory-identityprotection">
                 <div class="title column-third">
                   <span class="step-number">7</span>
                   <p>Identity-driven Security</p>
@@ -247,19 +247,19 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="active-directory-identityprotection">
+                  <a href="/active-directory/active-directory-identityprotection">
                     <h3>Azure Active Directory Identity Protection</h3>
                     <p>Get a consolidated view into risk events and potential vulnerabilities that affect your organization’s identities</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-conditional-access">
+                  <a href="/active-directory/active-directory-conditional-access">
                     <h3>Conditional Access</h3>
                     <p>Secure your resources, both in the cloud and on-premises</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-passwords">
+                  <a href="/active-directory/active-directory-passwords">
                     <h3>User passwords</h3>
                     <p>Allow your users to manage any password from any device, at any time</p>
                   </a>
@@ -269,7 +269,7 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
           </li>
           <li class="journey-step">
             <header class="journey-step-header row">
-              <a href="active-directory-developers-guide">
+              <a href="/active-directory/active-directory-developers-guide">
                 <div class="title column-third">
                   <span class="step-number">8</span>
                   <p>Develop & Customize Apps</p>
@@ -281,19 +281,19 @@ ms.assetid: 91f0edaf-586b-449e-a7a8-41ab667035fe
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="active-directory-developers-guide">
+                  <a href="/active-directory/active-directory-developers-guide">
                     <h3>Active Directory developers guide</h3>
                     <p>Understand how to integrate identity management into your applications</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-howto-tenant">
+                  <a href="/active-directory/active-directory-howto-tenant">
                     <h3>Get an Azure AD tenant</h3>
                     <p>Learn how to get a dedicated instance of the Azure AD service</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="active-directory-app-gallery-listing">
+                  <a href="/active-directory/active-directory-app-gallery-listing">
                     <h3>List your app in the Azure AD app gallery</h3>
                     <p>Learn what you need to do in your app to list it in the Azure AD app gallery</p>
                   </a>
