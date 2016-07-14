@@ -1,7 +1,7 @@
 ---
 asset_id: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
 layout: HubPage
-title: Multi-Factor Authentication Documentation
+title: Multi-Factor Authentication Documentation | Microsoft Docs
 description:
 keywords:
 author: msStevenPo
@@ -24,11 +24,11 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
       <h2 class="section-heading"><span class="icon icon-warning"></span> Featured Content</h2>
       <div class="features row">
         <ul class="column column-half">
-          <li><a href="multi-factor-authentication">What is MFA?</a></li>
-          <li><a href="multi-factor-authentication-end-user-manage-settings">Having trouble signing in?</a></li>
+          <li><a href="/multi-factor-authentication/multi-factor-authentication">What is MFA?</a></li>
+          <li><a href="/multi-factor-authentication/multi-factor-authentication-end-user-manage-settings">Having trouble signing in?</a></li>
         </ul>
         <ul class="column column-half">
-          <li><a href="multi-factor-authentication-azure-authenticator">Azure Authenticator mobile app</a></li>
+          <li><a href="/multi-factor-authentication/multi-factor-authentication-azure-authenticator">Azure Authenticator mobile app</a></li>
         </ul>
       </div>
     </section>
@@ -37,7 +37,7 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
         <ul class="journeys-list">
           <li class="journey-step">
             <header class="journey-step-header row">
-              <a href="multi-factor-authentication">
+              <a href="/multi-factor-authentication/multi-factor-authentication">
                 <div class="title column-third">
                   <span class="step-number">1</span>
                   <p>Understand &amp; Explore</p>
@@ -49,19 +49,19 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="multi-factor-authentication">
+                  <a href="/multi-factor-authentication/multi-factor-authentication">
                     <h3>What is MFA</h3>
                     <p>Learn how Azure MFA helps safeguard access to data and applications.</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="multi-factor-authentication#available-versions-of-azure-multi-factor-authentication">
+                  <a href="/multi-factor-authentication/multi-factor-authentication#available-versions-of-azure-multi-factor-authentication">
                     <h3>MFA versions</h3>
                     <p>Choose the version of MFA that's right for you.</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="multi-factor-authentication-how-it-works.md">
+                  <a href="/multi-factor-authentication/multi-factor-authentication-how-it-works.md">
                     <h3>How MFA works</h3>
                     <p>Learn how MFA works to safeguard your resources.</p>
                   </a>
@@ -83,7 +83,7 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="multi-factor-authentication-get-started">
+                  <a href="/multi-factor-authentication/multi-factor-authentication-get-started">
                     <h3>What version is right for you?</h3>
                     <p>Choose the right version based on what you need to secure and where your users are.</p>
                   </a>
@@ -93,7 +93,7 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
           </li>
           <li class="journey-step">
             <header class="journey-step-header row">
-              <a href="multi-factor-authentication-get-started-cloud">
+              <a href="/multi-factor-authentication/multi-factor-authentication-get-started-cloud">
                 <div class="title column-third">
                   <span class="step-number">3</span>
                   <p>Deploy &amp; Use</p>
@@ -105,19 +105,19 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="multi-factor-authentication-get-started-cloud">
+                  <a href="/multi-factor-authentication/multi-factor-authentication-get-started-cloud">
                     <h3>Azure MFA in the cloud</h3>
                     <p>Get started with Azure MA in the cloud.</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="multi-factor-authentication-get-started-server">
+                  <a href="/multi-factor-authentication/multi-factor-authentication-get-started-server">
                     <h3>Azure MFA on-premises server</h3>
                     <p>Install the server and get it set up with on-premises Active Directory.</p>
                   </a>
                 </li>
                 <li class="column-third">
-                  <a href="multi-factor-authentication-get-started-adfs">
+                  <a href="/multi-factor-authentication/multi-factor-authentication-get-started-adfs">
                     <h3>Azure MFA with AD FS</h3>
                     <p>Get started with MFA and Azure Active Directory using AD FS.</p>
                   </a>
@@ -139,7 +139,7 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="multi-factor-authentication-sdk">
+                  <a href="/multi-factor-authentication/multi-factor-authentication-sdk">
                     <h3>Build MFA into custom apps</h3>
                     <p>Use the SDK to build phone call and text message verification directly into the apps in your Azure AD tenant.</p>
                   </a>
@@ -149,7 +149,7 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
           </li>
           <li class="journey-step">
             <header class="journey-step-header row">
-              <a href="multi-factor-authentication-faq">
+              <a href="/multi-factor-authentication/multi-factor-authentication-faq">
                 <div class="title column-third">
                   <span class="step-number">5</span>
                   <p>Troubleshoot</p>
@@ -161,7 +161,7 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="multi-factor-authentication-faq">
+                  <a href="/multi-factor-authentication/multi-factor-authentication-faq">
                     <h3>MFA FAQ</h3>
                     <p>Find the answers to common questions about MFA.</p>
                   </a>
@@ -176,7 +176,7 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
             </section>
         <li class="journey-step">
             <header class="journey-step-header row">
-              <a href="multi-factor-authentication-end-user-first-time">
+              <a href="/multi-factor-authentication/multi-factor-authentication-end-user-first-time">
                 <div class="title column-third">
                   <span class="step-number">6</span>
                   <p>End user guide</p>
@@ -188,19 +188,19 @@ ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
             <section class="journey-step-elements content">
               <ul class="row">
                 <li class="column-third">
-                  <a href="multi-factor-authentication-end-user-first-time">
+                  <a href="/multi-factor-authentication/multi-factor-authentication-end-user-first-time">
                     <h3>Set up MFA for the first time</h3>
                     <p>Complete the MFA auto-enrollment process.</p>
                   </a>
                 </li>
                <li class="column-third">
-                  <a href="multi-factor-authentication-end-user-signin">
+                  <a href="/multi-factor-authentication/multi-factor-authentication-end-user-signin">
                     <h3>Signing in with Azure MFA</h3>
                     <p>Learn about your sign-in experience when using Azure MFA.</p>
                   </a>
                 </li>
                <li class="column-third">
-                  <a href="multi-factor-authentication-azure-authenticator">
+                  <a href="/multi-factor-authentication/multi-factor-authentication-azure-authenticator">
                     <h3>Azure Authenticator mobile app</h3>
                     <p>Learn how to use the Azure Autheticator app.</p>
                   </a>
