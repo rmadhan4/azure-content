@@ -3,7 +3,7 @@ asset_id: c4a97980-6e19-4d10-bf69-f0b338266efa
 layout: HubPage
 title: Azure Active Directory Documentation | Microsoft Docs
 description:
-keywords:
+keywords: active directory documentation, azure ad documentation, Azure AD
 author: msmbaldwin
 manager: mbaldwin
 ms.date: 04/28/2016

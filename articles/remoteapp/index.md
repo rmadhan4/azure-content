@@ -3,7 +3,7 @@ asset_id: 3b6ec76e-8296-48ce-a9b2-70659314ea04
 layout: HubPage
 title: Azure RemoteApp Documentation | Microsoft Docs
 description:
-keywords:
+keywords: azure documentation, azure remoteapp documentation, ARA, ARA documentation
 author: lizap
 manager: mbaldwin
 ms.date: 04/28/2016
