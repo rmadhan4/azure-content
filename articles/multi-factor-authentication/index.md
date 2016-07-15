@@ -1,9 +1,9 @@
 ---
 asset_id: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
 layout: HubPage
-title: Multi-Factor Authentication Documentation | Microsoft Docs
+title: Azure Multi-Factor Authentication (MFA) Documentation | Microsoft Docs
 description:
-keywords:
+keywords: multi-factor authentication documentation, MFA
 author: msStevenPo
 manager: mbaldwin
 ms.date: 04/28/2016
@@ -14,10 +14,10 @@ ms.technology:
 ms.suite: ems
 ms.assetid: 9cfa68a2-fd4a-4eac-8df2-d952a5c5061e
 ---
-# Multi-Factor Authentication Documentation
+# Azure Multi-Factor Authentication Documentation
 <article id="main">
     <section id="hero-content">
-      <h1>Multi-Factor Authentication Documentation</h1>
+      <h1>Azure Multi-Factor Authentication Documentation</h1>
       <h2>Learn how to set up Azure Multi-Factor Authentication (MFA), a method of authentication that requires more than one verification method and that adds a critical layer of security to user sign-ins and transactions.</h2>
     </section>
     <section id="featured" class="container">
