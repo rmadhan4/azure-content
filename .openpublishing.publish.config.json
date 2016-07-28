@@ -51,7 +51,7 @@
   ],
   "git_repository_url_open_to_public_contributors": "https://github.com/Azure/azure-content",
   "git_repository_branch_open_to_public_contributors": "master",
-  "skip_source_output_uploading": true,
+  "skip_source_output_uploading": false,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
